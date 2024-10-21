@@ -6,4 +6,9 @@ Group: u4225
 Author: Pogodin Anton Igorevich
 Lab: Lab1
 Date of create: 21.09.2024
-Date of finished: 
+Date of finished: 21.09.2024
+
+
+GOGOGO
+All info on one picture.
+![my-pic1./pic1.jpg](/lab1/pic1.png)
