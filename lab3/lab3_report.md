@@ -73,7 +73,11 @@ https://storage.googleapis.com/pogodinai-bucket/Random%20people/petr1.jpg
 ![image](https://github.com/user-attachments/assets/5072cba0-ec60-4274-ba71-d09868ee01b4)
 
 ![image](https://github.com/user-attachments/assets/818e3ba2-5131-45ea-b8ec-1b943e9e47d6)
+
 7. Удалил за собой все созданные сервисы
+
+![image](https://github.com/user-attachments/assets/6706ab92-19f9-439d-b9cc-4248f8d98780)
+
 
 ## Выводы
 В процессе работы с Google Cloud Storage были достигнуты следующие результаты:
