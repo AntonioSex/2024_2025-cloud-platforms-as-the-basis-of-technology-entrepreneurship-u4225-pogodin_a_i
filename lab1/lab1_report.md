@@ -13,9 +13,9 @@ Author: Pogodin Anton Igorevich
 
 Lab: Lab1
 
-Date of create: 21.09.2024
+Date of create: 21.10.2024
 
-Date of finished: 21.09.2024
+Date of finished: 21.10.2024
 
 
 GOGOGO
