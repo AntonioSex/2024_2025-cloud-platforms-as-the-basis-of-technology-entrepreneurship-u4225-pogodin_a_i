@@ -11,7 +11,7 @@ Group: U4225
 
 Author: Pogodin Anton Igorevich
 
-Lab: Lab2
+Lab: Lab3
 
 Date of create: 30.10.2024
 
