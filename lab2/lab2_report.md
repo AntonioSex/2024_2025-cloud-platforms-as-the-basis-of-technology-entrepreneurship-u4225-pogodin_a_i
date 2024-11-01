@@ -15,7 +15,7 @@ Lab: Lab2
 
 Date of create: 25.10.2024
 
-Date of finished: 31.10.2024
+Date of finished: 01.11.2024
 </div>
 
 ## Описание
