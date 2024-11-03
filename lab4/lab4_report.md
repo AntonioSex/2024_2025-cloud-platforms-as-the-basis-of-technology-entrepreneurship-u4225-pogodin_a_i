@@ -16,6 +16,7 @@ Date of create: 03.11.2024
 
 Date of finished: 
 
+
 **ХОД РАБОТЫ**
 
 **Телеграм-бот Parkushka**
