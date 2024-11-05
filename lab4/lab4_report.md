@@ -14,7 +14,7 @@ Lab: Lab4
 
 Date of create: 03.11.2024
 
-Date of finished: 
+Date of finished: 05.11.2024
 
 
 **ХОД РАБОТЫ**
